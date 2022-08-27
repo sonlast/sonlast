@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
-- 🌱 I’m currently learning **Minor Game Development, Minor Android App Development**
+- 🌱 I’m currently learning **Minor Game Development, Minor Android App Development, Pyhon Programming**
 
 - 💬 Ask me about **Game Development Engines and Scripts used**
 
