@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ijerson Lastimosa Ilalto</h1>
 <h3 align="center">A Computer Science Student in Taguig City University</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
+<iframe width="545" height="409" src="https://www.youtube.com/embed/I9PhfUsFvj0" title="Iron Man OST - Driving With The Top Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - 🌱 I’m currently learning **Minor Game Development, Minor Android App Development, Python Programming**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ijersonl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ijersonl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ijerson-ilalto-a9b010248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijerson-ilalto-a9b010248" height="30" width="40" /></a>
 <a href="https://fb.com/sonlastimosa.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonlastimosa.21" height="30" width="40" /></a>
 <a href="https://instagram.com/im_son_last" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_son_last" height="30" width="40" /></a>
 <a href="https://dribbble.com/sonlast21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sonlast21" height="30" width="40" /></a>
