@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ijerson Lastimosa Ilalto</h1>
 <h3 align="center">A Computer Science Student in Taguig City University</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-<iframe width="545" height="409" src="https://www.youtube.com/embed/I9PhfUsFvj0" title="Iron Man OST - Driving With The Top Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 - 🌱 I’m currently learning **Minor Game Development, Minor Android App Development, Python Programming**
 
