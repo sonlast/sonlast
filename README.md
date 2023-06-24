@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ijerson Lastimosa</h1>
-<h3 align="center">A Computer Science Student in Taguig City University</h3>
+<h3 align="center">A Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
