@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Ijerson Lastimosa</h1>
+<h1 align="center">Hi there, Ijerson Lastimosa here</h1>
 <h3 align="center">A Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
-- 🌱 I’m currently learning **Minor Game Development, Minor Android App Development, Python Programming**
+- 🌱 I’m currently learning **Python Language, Web Development, Cross-Platform Mobile Development**
 
-- 💬 Ask me about **Game Development Engines and Scripts used**
+- 💬 Ask me about **about languages or frameworks like Python, Flutter, React-Native, HTML/CSS/JavaScript**
 
 - 📫 How to reach me **sonlastimosa21@gmail.com**
 
