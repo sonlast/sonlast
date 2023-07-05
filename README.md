@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python Language, Web Development, Cross-Platform Mobile Development**
 
-- 💬 Ask me about **about languages or frameworks like Python, Flutter, React-Native, HTML/CSS/JavaScript**
+- 💬 Ask me about **about languages or frameworks like Python, HTML/CSS/JavaScript, C# / C++. Java, Flutter, React Native, VB.Net**
 
 - 📫 How to reach me **sonlastimosa21@gmail.com**
 
