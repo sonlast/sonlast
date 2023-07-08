@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
-- 🌱 I’m currently learning **Python Language, Web Development, Cross-Platform Mobile Development**
+- 🌱 I’m currently learning **Python Language, Web Development, Cross-Platform Mobile Development and Pursuing Back End Development**
 
 - 💬 Ask me about **about languages or frameworks like Python, HTML/CSS/JavaScript, C# / C++. Java, Flutter, React Native, VB.Net**
 
