@@ -2,8 +2,6 @@
 <h3 align="center">A Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c120f2fcdcf9c5d50ef85a?variant=dark" alt="roadmap.sh"/></a>
-
 - 🌱 I’m currently learning **Python Language, Web Development, Cross-Platform Mobile Development and Pursuing Back End Development**
 
 - 💬 Ask me about **about languages or frameworks like Python, HTML/CSS/JavaScript, C# / C++. Java, Flutter, React Native, VB.Net**
