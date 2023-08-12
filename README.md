@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, Ijerson Lastimosa here</h1>
-<h3 align="center">A Computer Science Student</h3>
+<h3 align="center">Incoming 4th Year Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Python Language, Web Development, Cross-Platform Mobile Development and Pursuing Back End Development**
+- 🌱 I’m currently learning **Python Language, and Aspiring Full Stack Development**
 
-- 💬 Ask me about **about languages or frameworks like Python, HTML/CSS/JavaScript, C# / C++. Java, Flutter, React Native, VB.Net**
+- 💬 Ask me about **about languages or frameworks like Python, HTML/CSS/JavaScript, Java, MySQL, and Php**
 
-- 📫 How to reach me **sonlastimosa21@gmail.com**
+- 📫 How to reach me **ilalto.ijersonl@outlook.com**
 
-- ⚡ Motto **"Everybody needs a hobby."**
+- ⚡ Motto **"Hiraya Manawari"**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonlast&show_icons=true&locale=en&layout=compact" alt="sonlast" /></p>
 
