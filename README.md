@@ -16,6 +16,12 @@
        alt="snake" /></a>
 </div>
 
+<p>
+<a href="#">
+<img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=vibrantfix&theme=dracula&hide_border=true&background=000000EE"/>
+</a>
+</p>
+
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
