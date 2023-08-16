@@ -2,12 +2,6 @@
 <h3 align="center">4th Year Computer Science Student, An Aspiring Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 - 🌱 Current Knowledge: **HTML/CSS, Python**
 
 - 💬 Learning Path: **HTML/CSS, JavaScript, Java, Python, Php, MySQL, and MongoDB**
@@ -15,6 +9,12 @@
 - 📫 Reach Me At: **ilalto.ijersonl@outlook.com**
 
 - ⚡ Motto: **"Hiraya Manawari"**
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
