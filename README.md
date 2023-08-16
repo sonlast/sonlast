@@ -52,3 +52,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
