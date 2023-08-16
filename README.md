@@ -18,10 +18,10 @@
 
 <p>
 <a href="#">
-<img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=sonlast&theme=maroongold&hide_border=true/>
+<img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=sonlast&theme=maroongold&hide_border=false/>
 </a>
 </p>
 
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
 <br/>
