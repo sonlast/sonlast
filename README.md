@@ -2,6 +2,12 @@
 <h3 align="center">4th Year Computer Science Student, An Aspiring Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🌱 Current Knowledge: **HTML/CSS, Python**
 
 - 💬 Learning Path: **HTML/CSS, JavaScript, Java, Python, Php, MySQL, and MongoDB**
