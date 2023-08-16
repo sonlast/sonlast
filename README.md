@@ -18,7 +18,7 @@
 
 <p>
 <a href="#">
-<img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=sonlast&theme=dracula&hide_border=true&background=000000EE"/>
+<img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=sonlast&theme=ruby&hide_border=true&background=000000EE"/>
 </a>
 </p>
 
