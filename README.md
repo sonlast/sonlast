@@ -7,6 +7,8 @@
 
 <img align="right" alt="Coding" width="400" height="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
+<space>
+
 - 💬 Knowledge: **HTML/CSS, JavaScript, Java, Python, Php, MySQL, and MongoDB**
 
 - 🙂 Frameworks: **Flutter, React Native, Flask, Django, and Laravel**
