@@ -23,6 +23,12 @@
 </a>
 </p>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sonlast&theme=burnt-neon&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
 <br/>
