@@ -22,10 +22,13 @@
 </div>
 
 <p>
+
+<div align="center">
 <a href="#">
 <center><img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=sonlast&theme=maroongold&hide_border=true"/></center>
 </a>
 </p>
+</div>
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
