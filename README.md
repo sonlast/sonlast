@@ -17,12 +17,6 @@
        alt="snake" /></a>
 </div>
 
-<p>
-<a href="#">
-<center><img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=sonlast&theme=maroongold&hide_border=true"/></center>
-</a>
-</p>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sonlast&theme=burnt-neon&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
