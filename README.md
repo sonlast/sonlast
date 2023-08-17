@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&center=true&width=435&lines=4th+Year+Student+%7C+Aspiring+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F70000&center=true&width=435&lines=4th+Year+Student+;Aspiring+Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,9 +30,6 @@
 </p>
 </div>
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
-<br/>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -45,3 +42,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,mongodb,sqlite,firebase,bootstrap,tailwind,laravel,nodejs,react,django,flask,flutter,gradle,git,github,figma,xd,ai,vscode,androidstudio,visualstudio,idea,eclipse,wordpress,replit,stackoverflow&perline=11&theme=light" />
   </a>
 </p>
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
