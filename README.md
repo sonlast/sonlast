@@ -1,8 +1,12 @@
 <h1 align="center">Hi there, I am Ijerson Lastimosa</h1>
-<h3 align="center">4th Year Computer Science Student, An Aspiring Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" height="250" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌱 Current Knowledge: **HTML/CSS, Python**
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&center=true&width=435&lines=4th+Year+Student+%7C+Aspiring+Full+Stack+Developer)](https://git.io/typing-svg)
+
+</div>
+
+<img align="right" alt="Coding" width="400" height="175" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 💬 Learning Path: **HTML/CSS, JavaScript, Java, Python, Php, MySQL, and MongoDB**
 
@@ -17,11 +21,15 @@
        alt="snake" /></a>
 </div>
 
-<p>
-<a href="#">
-<center><img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=sonlast&theme=maroongold&hide_border=true"/></center>
-</a>
-</p>
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sonlast&theme=burnt-neon&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<br>
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
@@ -29,7 +37,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Encountered👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
