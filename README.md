@@ -40,7 +40,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,mongodb,sqlite,firebase,bootstrap,tailwind,laravel,nodejs,react,django,flask,flutter,gradle,git,github,figma,xd,ai,vscode,androidstudio,visualstudio,idea,eclipse,wordpress,replit,stackoverflow&perline=11&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,mongodb,sqlite,firebase,bootstrap,tailwind,sass,laravel,nodejs,react,django,flask,flutter,gradle,git,github,figma,xd,ai,vscode,androidstudio,visualstudio,idea,eclipse,wordpress,replit,stackoverflow&perline=11&theme=dark" />
   </a>
 </p>
 
