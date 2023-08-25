@@ -40,13 +40,13 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,mongodb,sqlite,firebase,bootstrap,tailwind,sass,laravel,nodejs,react,django,flask,flutter,gradle,git,github,figma,xd,ai,vscode,visualstudio,androidstudio,idea,eclipse,wordpress,replit,stackoverflow&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,mongodb,sqlite,firebase,bootstrap,tailwind,sass,laravel,nodejs,react,django,flask,flutter&perline=11&theme=dark" />
   </a>
 </p>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">IDE's and Other's I Use 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">IDE's and Others I Use 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
