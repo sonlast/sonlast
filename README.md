@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
-- ⚡ Motto: **"Hiraya Manawari"**
+- ⚡ Motto: **"Don't just live a life, build one" - Steve Jobs**
 
 <br>
 <div align="center">
