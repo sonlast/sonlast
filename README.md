@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" height="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 💬 Knowledge: **HTML/CSS, Python**
+- 💬 Languages: **HTML, CSS, Python, Reactjs**
 
 - 🙂 Frameworks: **Bootstrap, Flutter, React Native, Flask, and Django**
 
