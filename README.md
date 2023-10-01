@@ -9,7 +9,7 @@
 
 - 💬 Languages: **HTML, CSS, Python, Reactjs**
 
-- 🙂 Frameworks: **Bootstrap, Flutter, React Native, Flask, and Django**
+- 🙂 Frameworks: **Bootstrap, Flutter, React Native, Flask, Django**
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
