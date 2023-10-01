@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="400" height="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 💬 Knowledge: **HTML/CSS, JavaScript, Java, Python, Php, MySQL, and MongoDB**
+- 💬 Knowledge: **HTML/CSS, Python**
 
-- 🙂 Frameworks: **Flutter, React Native, Flask, Django, and Laravel**
+- 🙂 Frameworks: **Bootstrap, Flutter, React Native, Flask, and Django**
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
