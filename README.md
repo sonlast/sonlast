@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="400" height="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 💬 Languages: **HTML, CSS, JavaScript, Python**
+- 💬 Languages: **HTML/CSS, Python, JavaScript**
 
-- 🙂 Frameworks: **Bootstrap, Flutter, React Native, Flask, Django**
+- 🙂 Frameworks: **Bootstrap, Tailwind, React Native, Flask, Django**
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
@@ -37,7 +37,7 @@
     <summary><h2 style="display: inline-block">Languages and Frameworks I'm Familiar 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+<!--tech stack icons--> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,mongodb,sqlite,firebase,bootstrap,tailwind,sass,laravel,nodejs,vuejs,react,django,flask,flutter&perline=11&theme=dark" />
@@ -46,13 +46,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">IDE's and Others I Use 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">IDE's and Tools I Use 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,git,github,figma,xd,ai,vscode,visualstudio,androidstudio,idea,eclipse,wordpress,replit,stackoverflow&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gradle,git,github,figma,xd,ai,vscode,visualstudio,androidstudio,wordpress,replit,stackoverflow&perline=11&theme=dark" />
   </a>
 </p>
 
