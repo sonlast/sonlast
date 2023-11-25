@@ -40,7 +40,7 @@
 <!--tech stack icons--> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,svelte,sqlite,firebase,bootstrap,tailwind,sass,nodejs,django,flask&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,svelte,sqlite,bootstrap,tailwind,sass,nodejs,django,flask&perline=11&theme=dark" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,git,github,vim,figma,xd,ai,materialui,vscode,visualstudio,androidstudio,wordpress,vercel,replit,stackoverflow&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gradle,git,github,vim,powershell,bash,figma,xd,ai,materialui,vscode,visualstudio,androidstudio,wordpress,vercel,replit,stackoverflow,firebase&perline=11&theme=dark" />
   </a>
 </p>
 
