@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,git,github,vim,figma,xd,ai,materialui,vscode,visualstudio,androidstudio,wordpress,replit,stackoverflow&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gradle,git,github,vim,figma,xd,ai,materialui,vscode,visualstudio,androidstudio,wordpress,vercel,replit,stackoverflow&perline=11&theme=dark" />
   </a>
 </p>
 
