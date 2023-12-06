@@ -13,7 +13,9 @@
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
-- ⚡ Motto: **"Don't just live a life, build one" - Steve Jobs**
+- ⚡ Motto/s:
+- **"Don't just live a life, build one" - Steve Jobs**
+- **"It always seems impossible until it's done" - Nelson Mandela**
 
 <br>
 <div align="center">
