@@ -16,6 +16,7 @@
 - ⚡ Motto/s:
 - **"Don't just live a life, build one" - Steve Jobs**
 - **"It always seems impossible until it's done" - Nelson Mandela**
+- **"Work smart not hard" - Anonymous**
 
 <br>
 <div align="center">
