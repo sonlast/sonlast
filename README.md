@@ -2,21 +2,21 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F70000&center=true&width=435&lines=4th+Year+Student+;Aspiring+Front+End+Mobile+Developer;Aspiring+iOS/Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F70000&center=true&width=435&lines=4th+Year+Student+;Front+End+Mobile+Developer;Aspiring+iOS/Android+Developer)](https://git.io/typing-svg)
 </div>
 
 <img align="right" alt="Coding" width="400" height="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 💬 Languages: **HTML/CSS, Python, JavaScript**
+- 💬 Languages: **HTML/CSS, JavaScript, Python**
 
-- 🙂 Frameworks: **Bootstrap, Tailwind, React Native, Flask, Django**
+- 🙂 Frameworks: **React Native, Bootstrap**
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
 - ⚡ Motto/s:
 - **"Don't just live a life, build one" - Steve Jobs**
 - **"It always seems impossible until it's done" - Nelson Mandela**
-- **"Work smart not hard" - Anonymous**
+- **"Work smart, not hard" - Anonymous**
 
 <br>
 <div align="center">
