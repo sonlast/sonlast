@@ -17,6 +17,29 @@
 - **"Don't just live a life, build one" - Steve Jobs**
 - **"It always seems impossible until it's done" - Nelson Mandela**
 - **"Work smart, not hard" - Anonymous**
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages and Frameworks I'm Familiar 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons--> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,svelte,sqlite,bootstrap,tailwind,sass,nodejs,django,flask&perline=11&theme=dark" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">IDE's and Tools I Use 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gradle,git,github,vim,powershell,bash,figma,xd,ai,materialui,vscode,visualstudio,androidstudio,wordpress,vercel,replit,stackoverflow,firebase&perline=11&theme=dark" />
+  </a>
+</p>
 
 <div align="center" style="margin-top: 10px;">
   <h4 align="center">LeetCode Stats 🤘🏻</h4>
@@ -44,29 +67,6 @@
 </div>
 
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Languages and Frameworks I'm Familiar 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons--> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,svelte,sqlite,bootstrap,tailwind,sass,nodejs,django,flask&perline=11&theme=dark" />
-  </a>
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">IDE's and Tools I Use 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,git,github,vim,powershell,bash,figma,xd,ai,materialui,vscode,visualstudio,androidstudio,wordpress,vercel,replit,stackoverflow,firebase&perline=11&theme=dark" />
-  </a>
-</p>
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
