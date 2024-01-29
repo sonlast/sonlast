@@ -18,18 +18,12 @@
 - **"It always seems impossible until it's done" - Nelson Mandela**
 - **"Work smart, not hard" - Anonymous**
 
-<div style="display: flex; margin-top: 10px;">
-  <div style="text-align: center; flex: 1;">
-    <h4>LeetCode Stats 🤘🏻</h4>
-    <a href="https://leetcode.com/JacobLinCool">
-      <img src="https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico&ext=heatmap" alt="LeetCode Personal Results">
-    </a>
-  </div>
-
-  <div style="text-align: center; flex: 1;">
-    <h4>Codewars Stats 👏</h4>
-    <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
-  </div>
+<div align="center" style="margin-top: 10px;">
+  <h4 align="center">LeetCode Stats 🤘🏻</h4>
+  
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico&ext=heatmap)](https://leetcode.com/JacobLinCool)
+  <h4 align="center">Codewars Stats 👏</h4>
+  <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 </div>
 
 
