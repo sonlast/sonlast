@@ -19,8 +19,8 @@
 - **"Work smart, not hard" - Anonymous**
 
 <div align="center" style="margin-top: 10px;">
-  <h4 align="center">LeetCode Stats</h4>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=wtf&font=Quantico&ext=activity)
+  <h4 align="center">LeetCode Stats 🤘🏻</h4>
+  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=wtf&font=Quantico&ext=activity)">
   <h4 align="center">Codewars Stats 👏</h4>
   <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 </div>
