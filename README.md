@@ -62,6 +62,7 @@
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
+  <h4 align="center">Codewars Highlights 👀</h4>
   <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 </div>
