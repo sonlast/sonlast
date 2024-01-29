@@ -41,10 +41,10 @@
   </a>
 </p>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 20px;">
   <h4 align="center">LeetCode Stats 🤘🏻</h4>
   
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico&ext=heatmap)](https://leetcode.com/JacobLinCool)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico)](https://leetcode.com/JacobLinCool)
   <h4 align="center">Codewars Stats 👏</h4>
   <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 </div>
