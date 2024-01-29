@@ -18,13 +18,20 @@
 - **"It always seems impossible until it's done" - Nelson Mandela**
 - **"Work smart, not hard" - Anonymous**
 
-<div align="center" style="margin-top: 10px;">
-  <h4 align="center">LeetCode Stats 🤘🏻</h4>
-  
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico&ext=heatmap)](https://leetcode.com/JacobLinCool)
-  <h4 align="center">Codewars Stats 👏</h4>
-  <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
+<div style="display: flex; justify-content: space-around; margin-top: 10px;">
+  <div style="text-align: center;">
+    <h4>LeetCode Stats 🤘🏻</h4>
+    <a href="https://leetcode.com/JacobLinCool">
+      <img src="https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico&ext=heatmap" alt="LeetCode Personal Results">
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <h4>Codewars Stats 👏</h4>
+    <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
+  </div>
 </div>
+
 <br>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
