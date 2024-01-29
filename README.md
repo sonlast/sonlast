@@ -63,5 +63,5 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
 
 <div >
-  <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large">
+  <img align="center" src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 </div>
