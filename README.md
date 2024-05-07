@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="400" height="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 💬 Languages: **HTML/CSS, JavaScript, Python**
+- 💬 Languages: **HTML/CSS, JavaScript, TypeScript, Python**
 
-- 🙂 Frameworks: **React Native, Bootstrap**
+- 🙂 Frameworks: **React Native, Ionic, Angular, Cordova, Bootstrap**
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
