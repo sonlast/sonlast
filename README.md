@@ -9,7 +9,7 @@
 
 - 💬 Languages: **HTML/CSS, JavaScript, TypeScript, Python**
 
-- 🙂 Frameworks: **React Native, Ionic, Angular, Cordova, Bootstrap**
+- 🙂 Frameworks: **React Native, RN Expo, Angular, Angular Ionic, Bootstrap**
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
