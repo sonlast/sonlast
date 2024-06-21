@@ -25,7 +25,7 @@
 <!--tech stack icons--> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,py,react,flutter,kotlin,svelte,sqlite,mysql,bootstrap,tailwind,sass,nodejs,django,flask,electron,dotnet&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,py,react,vue,flutter,kotlin,svelte,sqlite,mysql,bootstrap,tailwind,sass,nodejs,django,flask,electron,dotnet&perline=11&theme=dark" />
   </a>
 </p>
 
