@@ -54,14 +54,6 @@
 
 <br>
 
-<div align="center" style="margin-top: 20px;">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonlast&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<br>
-
 <p>
 
 <div align="center">
@@ -71,6 +63,13 @@
 </p>
 </div>
 
+<br> 
+
+<div align="center" style="margin-top: 20px;">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonlast&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 
 <h4 align="center">Visitor's count 👀</h4>
