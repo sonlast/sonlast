@@ -42,10 +42,10 @@
 </p>
 
 <div align="center" style="margin-top: 20px;">
-  <h4 align="center">LeetCode Stats 🤘🏻</h4>
+  <h4 align="center">LEETCODE stats</h4>
   
   [![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico)](https://leetcode.com/JacobLinCool)
-  <h4 align="center">Codewars Stats 👏</h4>
+  <h4 align="center">CODEWARS stats</h4>
   <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 
   
@@ -57,6 +57,7 @@
 <p>
 
 <div align="center">
+<h4>GITHUB stats</h4>
 <a href="#">
 <center><img alt="Son Lastimosa's streak" src="https://streak-stats.demolab.com/?user=sonlast&theme=maroongold&hide_border=true"/></center>
 </a>
