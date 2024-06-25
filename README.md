@@ -52,9 +52,9 @@
 
 </div>
 
-<be>
+<br>
 
-<div style="margin-top: 20px;">
+<div align="center" style="margin-top: 20px;">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonlast&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
