@@ -49,13 +49,16 @@
   <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 
   
-  <div style="margin-top: 15px;">
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonlast&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 
 </div>
 
+<be>
+
+<div style="margin-top: 20px;">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonlast&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <br>
 
