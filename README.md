@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Ijerson Lastimosa Ilalto, been developing my ideas.</h1>
+<h1 align="center">Hi, I am Ijerson Lastimosa Ilalto, developing my ideas.</h1>
 
 <div align="center">
 
