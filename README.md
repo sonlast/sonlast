@@ -17,6 +17,7 @@
 - **"Don't just live a life, build one" - Steve Jobs**
 - **"It always seems impossible until it's done" - Nelson Mandela**
 - **"The best way to predict the future is to invent it." - Alan Kay**
+- **"There's no such thing as can't." - Christopher Reeve**
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Languages and Frameworks I'm Familiar 👨🏻‍💻</h2></summary>
