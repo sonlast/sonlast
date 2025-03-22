@@ -26,7 +26,7 @@
 <!--tech stack icons--> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,vue,ts,py,dart,flutter,kotlin,svelte,sqlite,mysql,bootstrap,tailwind,sass,nodejs,django,flask,electron,dotnet&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,py,dart,flutter,kotlin,svelte,sqlite,mysql,bootstrap,tailwind,sass,nodejs,django,flask,electron,dotnet&perline=11&theme=light" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,git,github,vim,powershell,bash,npm,figma,xd,ai,materialui,vscode,visualstudio,androidstudio,wordpress,vercel,replit,stackoverflow,firebase&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=gradle,git,github,vim,powershell,bash,npm,figma,xd,ai,materialui,vscode,visualstudio,androidstudio,sublime,wordpress,vercel,replit,stackoverflow,firebase,supabase,postman&perline=11&theme=light" />
   </a>
 </p>
 
