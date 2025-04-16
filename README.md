@@ -132,13 +132,13 @@
   <a href="https://gitroll.io/profile/ug40eW1OYaZb4r5XJW6AFuDSrnj93" target="_blank"><img width="500" src="https://gitroll.io/api/badges/profiles/v1/ug40eW1OYaZb4r5XJW6AFuDSrnj93?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 </div>
 
+<br>
+
 <div align="center" style="margin-top: 20px;">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonlast&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-<br>
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
