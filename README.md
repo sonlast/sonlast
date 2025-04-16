@@ -101,14 +101,19 @@
   </a>
 </p>
 
+<div
+  style="display: flex; flex-direction: row; justify-content: center; align-items: center; margin-top: 10px 0"
+>
+  <a href="https://gitroll.io/profile/ug40eW1OYaZb4r5XJW6AFuDSrnj93" target="_blank"><img width="500" src="https://gitroll.io/api/badges/profiles/v1/ug40eW1OYaZb4r5XJW6AFuDSrnj93?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+</div>
+
 <div align="center" style="margin-top: 20px;">
   <h4 align="center">LEETCODE stats</h4>
-  
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico)](https://leetcode.com/JacobLinCool)
-  <h4 align="center">CODEWARS stats</h4>
-  <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 
-  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico)](https://leetcode.com/JacobLinCool)
+
+<h4 align="center">CODEWARS stats</h4>
+<img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 
 </div>
 
