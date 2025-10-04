@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi, I am Ijerson Lastimosa Ilalto, developing my ideas.</h1> -->
-![Header](./github-header-image.png)
+![Header](./github-header-banner.png)
 
 <div align="center">
 
