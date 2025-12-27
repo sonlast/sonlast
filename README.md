@@ -137,11 +137,11 @@
 
 <div align="center" style="margin-top: 20px;">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonlast&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonlast&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p>
+<!-- <h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{sonlast}/count.svg" alt="sonlast :: Visitor's Count" /></p> -->
 
 <!-- edit for: https://github.com/sonlast -->
