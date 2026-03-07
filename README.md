@@ -10,7 +10,7 @@
 
 - 💬 Languages: **JavaScript, TypeScript, Python, HTML/CSS**
 
-- 🙂 Frameworks: **React Native, Expo, Angular, Angular Ionic, Bootstrap**
+- 🙂 Tech Stack: **React Native, Expo, Firebase, Supabase, EAS, NodeJS, ExpressJS**
 
 - 📫 How to reach me: **sonilalto@gmail.com**
 
@@ -102,7 +102,7 @@
 </p>
 
 
-<div align="center" style="margin-top: 20px;">
+<!-- <div align="center" style="margin-top: 20px;">
   <h4 align="center">LEETCODE stats</h4>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/lastimosa_ijerson_son?theme=dark&font=Quantico)](https://leetcode.com/JacobLinCool)
@@ -110,7 +110,7 @@
 <h4 align="center">CODEWARS stats</h4>
 <img src="https://www.codewars.com/users/Ijerson%20Ilalto/badges/large" alt="Codewars Personal Results">
 
-</div>
+</div> -->
 
 <br>
 
