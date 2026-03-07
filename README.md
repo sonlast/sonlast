@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F70000&center=true&width=435&lines=Mobile+Developer+;Frontend+Developer;Aspiring+ML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F70000&center=true&width=435&lines=React+Native+Developer+;Full+Stack+Developer;Aspiring+ML+Engineer)](https://git.io/typing-svg)
 </div>
 
 <img align="right" alt="Coding" width="350" height="205" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
